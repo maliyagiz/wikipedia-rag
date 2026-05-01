@@ -22,7 +22,8 @@ from config import DATA_DIR
 
 WIKI_API = "https://en.wikipedia.org/w/api.php"
 USER_AGENT = (
-    "LocalWikipediaRAG/1.0 (ITU BLG483E homework; contact: student@itu.edu.tr)"
+    "LocalWikipediaRAG/1.0 (ITU BLG483E homework; "
+    "Muhammet Ali Yagiz, student id 820220327)"
 )
 
 
